@@ -12,7 +12,7 @@ Você pilota a Millennium Falcon por cinco planetas, desvia de obstáculos, abre
 ## Vídeo de demonstração
 
 [**ASSISTIR AO VÍDEO**]
-(https://drive.google.com/file/d/1CRGKMAXcT-C2j8SCKp56ECpsrFmuo6cy/view?usp=drive_link)
+(https://drive.google.com/file/d/1HLfTRhut6TJpImYX-8e-5bdyZG6FFNRu/view?usp=sharing)
 
 ## Como rodar
 
