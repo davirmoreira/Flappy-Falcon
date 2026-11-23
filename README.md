@@ -90,10 +90,16 @@ O jogo usa classes (`Nave`, `Laser`, `Alvo`, `Cano`, `Chefe`, `Particula`, `Boom
 
 ## Uso de IA e créditos
 
-**Declaração de uso de IA:**
+**Ferramentas usadas:** Claude (Anthropic) para o código e ChatGPT (OpenAI) para imagens e sons. O professor autorizou o uso de outras ferramentas de IA além da institucional.
 
-- **Código:** a maior parte do código foi escrita com a IA **Claude (Anthropic)**, a partir das nossas instruções: a ideia do jogo, os personagens, as regras, os ajustes e as correções foram pedidos e testados por nós. Depois organizamos o projeto em arquivos, subimos no Git e estudamos o código para conseguirmos explicá-lo.
-- **Imagens (`imagens/`):** geradas com IA de imagens (**ChatGPT (OpenAI)**) e depois recortadas (fundo verde removido) e redimensionadas por código. Isso inclui a Millennium Falcon, os 3 pilotos, o Resina Vader, o fogo do pulo, a cena "Eu sou seu pai", os canos e fundos dos 5 planetas e da Estrela da Morte, o alvo, os corações, as explosões, os lasers, a plataforma, o portão e a logo. As cabeças dos pilotos (`cabeca_*.png`) foram recortadas por nós a partir das imagens dos pilotos.
-- **Sons (`sons/`):** 2 músicas e 9 efeitos sonoros gerados com IA (**ChatGPT (OpenAI)**), inclusive o grunhido do Resina Vader ao levar tiro. As músicas foram convertidas de WAV para OGG.
+| Parte do projeto | Quanto foi gerado por IA | Histórico |
+| --- | --- | --- |
+| Código (todos os arquivos `.py`) | Cerca de 100%, a partir de instruções nossas (ideia do jogo, personagens, regras, ajustes e correções). Nós testamos, pedimos mudanças e organizamos o repositório | https://claude.ai/share/03d0d3a3-0888-4053-8c14-9ffa2d48350b |
+| Imagens (`imagens/`) | 100% geradas com IA, depois recortadas (fundo verde removido) e redimensionadas por código. As cabeças dos pilotos (`cabeca_*.png`) foram recortadas por nós 
+| Sons (`sons/`) | 100% gerados com IA. As músicas foram convertidas de WAV para OGG 
+
+**Como usamos a IA:** pedimos o código aos poucos, testamos o jogo, reportamos erros e pedimos correções. Revisamos o que foi gerado e estudamos todo o código para conseguir explicá-lo.
+
+**Código de terceiros:** não copiamos código da internet nem de colegas.
 
 **Créditos:** Star Wars é marca da Lucasfilm/Disney. Os personagens, planetas e a Millennium Falcon aparecem aqui apenas como inspiração, em um projeto acadêmico sem fins lucrativos.
